@@ -1,0 +1,22 @@
+{
+  "name": "notesapp",
+  "version": "1.0.0",
+  "description": "notes application",
+  "main": "notes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhawna4110/Notes-App.git"
+  },
+  "author": "Bhawna Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhawna4110/Notes-App/issues"
+  },
+  "homepage": "https://github.com/Bhawna4110/Notes-App#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
