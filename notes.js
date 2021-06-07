@@ -1,8 +1,3 @@
-const express = require("express");
-const app = express();
-app.port = 5501
-
-
 const rightSide = document.querySelector('.right')
 const addButton = document.querySelector('#btnSubmit');
 var task = document.querySelector('.task')
